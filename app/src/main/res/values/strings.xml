@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ArshTestProject</string>
+
+    <string name="ashkan">Ashkan</string>
+    <string name="khadiri">Khadiri</string>
+
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="message">Message</string>
+    <string name="ewallet">E-Wallet</string>
+    <string name="profile">Profile</string>
+
+    <string name="deliver_to">Deliver to</string>
+    <string name="times_square">Times Square</string>
+    <string name="what_are_you_craving">What are you craving?</string>
+    <string name="special_offers">Special Offers</string>
+    <string name="see_all">See All</string>
+    <string name="discount_guaranteed">Discount Guaranteed! 👌</string>
+    <string name="recommended_for_you">Recommended For You 😍</string>
+    <string name="hamburger">Hambur..</string>
+    <string name="pizza">Pizza</string>
+    <string name="drink">Drink</string>
+    <string name="meat">Meat</string>
+    <string name="vegeta">Vegeta..</string>
+    <string name="noodles">Noodles</string>
+    <string name="dessert">Dessert</string>
+    <string name="more">More</string>
+    <string name="promo">PROMO</string>
+
+</resources>
